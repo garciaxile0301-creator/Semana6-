@@ -1,0 +1,4 @@
+{
+  "tipo": "Vía pública",
+  "descripcion": "La comunidad reporta un hueco de gran tamaño en la calle principal que representa un riesgo para conductores y peatones."
+}
